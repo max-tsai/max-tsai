@@ -1,0 +1,21 @@
+.border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #00aabb;
+    padding: 5px;
+}
+
+.img1 {
+    height: 580px;
+    width: 290px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #666666;
+    background-size: cover;
+    background-position-x: -25px;
+    /* background-position-y: -50px; */
+}
+
+.backgg {
+    background: url(../img/1.jpg);
+}
